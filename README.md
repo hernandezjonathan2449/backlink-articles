@@ -3,5 +3,6 @@
 ## Article Index
 
 <!-- backlink-building:github-repository:start -->
-_No articles published yet._
+### example.com
+- [GitHub Repository onboarding smoke test](example.com/github-repository-onboarding-smoke-test.md)
 <!-- backlink-building:github-repository:end -->
