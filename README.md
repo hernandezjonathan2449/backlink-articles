@@ -3,5 +3,6 @@
 ## Article Index
 
 <!-- backlink-building:github-repository:start -->
-_No articles published yet._
+### shengxinaluminium.com
+- [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
 <!-- backlink-building:github-repository:end -->
