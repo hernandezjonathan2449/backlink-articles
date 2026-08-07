@@ -5,6 +5,7 @@
 <!-- backlink-building:github-repository:start -->
 ### shengxinaluminium.com
 - [6061 vs 6063 Aluminum Right Angle Extrusion: Choosing the Right Alloy](shengxinaluminium.com/6061-vs-6063-aluminum-right-angle-extrusion-choosing-the-right-alloy.md)
+- [Aluminum Extrusion Die Design: Why Tight Tolerances Start Here](shengxinaluminium.com/aluminum-extrusion-die-design-why-tight-tolerances-start-here.md)
 - [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
 - [Automotive Aluminum Extrusion Supplier Selection: Why Integration Beats Price](shengxinaluminium.com/automotive-aluminum-extrusion-supplier-selection-why-integration-beats-price.md)
 - [Facade Extrusion Design: How Custom Aluminum Profiles Control Curtain Wall Performance](shengxinaluminium.com/facade-extrusion-design-how-custom-aluminum-profiles-control-curtain-wall-performance.md)
