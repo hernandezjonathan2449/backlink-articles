@@ -7,6 +7,7 @@
 - [6061 vs 6063 Aluminum Right Angle Extrusion: Choosing the Right Alloy](shengxinaluminium.com/6061-vs-6063-aluminum-right-angle-extrusion-choosing-the-right-alloy.md)
 - [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
 - [Automotive Aluminum Extrusion Supplier Selection: Why Integration Beats Price](shengxinaluminium.com/automotive-aluminum-extrusion-supplier-selection-why-integration-beats-price.md)
+- [Facade Extrusion Design: How Custom Aluminum Profiles Control Curtain Wall Performance](shengxinaluminium.com/facade-extrusion-design-how-custom-aluminum-profiles-control-curtain-wall-performance.md)
 - [Polycarbonate Thermal Cracking: Why Aluminum Extrusions Need Movement](shengxinaluminium.com/polycarbonate-thermal-cracking-why-aluminum-extrusions-need-movement.md)
 - [Solar Panel Frame Coating: Why Surface Treatment Matters More Than Alloy](shengxinaluminium.com/solar-panel-frame-coating-why-surface-treatment-matters-more-than-alloy.md)
 - [Thermal Breaks in Aluminum Window Frames: Why the Hidden Barrier Matters Most](shengxinaluminium.com/thermal-breaks-in-aluminum-window-frames-why-the-hidden-barrier-matters-most.md)
