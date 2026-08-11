@@ -5,6 +5,7 @@
 <!-- backlink-building:github-repository:start -->
 ### shengxinaluminium.com
 - [6061 vs 6063 Aluminum Right Angle Extrusion: Choosing the Right Alloy](shengxinaluminium.com/6061-vs-6063-aluminum-right-angle-extrusion-choosing-the-right-alloy.md)
+- [6063 vs 6061 Aluminum Extrusion: Why Alloy and Temper Decide the Fit](shengxinaluminium.com/6063-vs-6061-aluminum-extrusion-why-alloy-and-temper-decide-the-fit.md)
 - [Aluminum Extrusion Die Design: Why Tight Tolerances Start Here](shengxinaluminium.com/aluminum-extrusion-die-design-why-tight-tolerances-start-here.md)
 - [Aluminum Extrusion Door Frame Tolerances Matter More Than Alloy](shengxinaluminium.com/aluminum-extrusion-door-frame-tolerances-matter-more-than-alloy.md)
 - [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
