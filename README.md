@@ -11,6 +11,7 @@
 - [Aluminum Extrusion Die Design: Why Tight Tolerances Start Here](shengxinaluminium.com/aluminum-extrusion-die-design-why-tight-tolerances-start-here.md)
 - [Aluminum Extrusion Door Frame Tolerances Matter More Than Alloy](shengxinaluminium.com/aluminum-extrusion-door-frame-tolerances-matter-more-than-alloy.md)
 - [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
+- [Aluminum Zee Extrusions: Choosing 6061 vs 6063 for the Right Job](shengxinaluminium.com/aluminum-zee-extrusions-choosing-6061-vs-6063-for-the-right-job.md)
 - [Automotive Aluminum Extrusion Supplier Selection: Why Integration Beats Price](shengxinaluminium.com/automotive-aluminum-extrusion-supplier-selection-why-integration-beats-price.md)
 - [Facade Extrusion Design: How Custom Aluminum Profiles Control Curtain Wall Performance](shengxinaluminium.com/facade-extrusion-design-how-custom-aluminum-profiles-control-curtain-wall-performance.md)
 - [Polycarbonate Thermal Cracking: Why Aluminum Extrusions Need Movement](shengxinaluminium.com/polycarbonate-thermal-cracking-why-aluminum-extrusions-need-movement.md)
