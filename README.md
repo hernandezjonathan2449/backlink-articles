@@ -17,6 +17,7 @@
 - [Polycarbonate Thermal Cracking: Why Aluminum Extrusions Need Movement](shengxinaluminium.com/polycarbonate-thermal-cracking-why-aluminum-extrusions-need-movement.md)
 - [Solar Panel Frame Coating: Why Surface Treatment Matters More Than Alloy](shengxinaluminium.com/solar-panel-frame-coating-why-surface-treatment-matters-more-than-alloy.md)
 - [Thermal Breaks in Aluminum Window Frames: Why the Hidden Barrier Matters Most](shengxinaluminium.com/thermal-breaks-in-aluminum-window-frames-why-the-hidden-barrier-matters-most.md)
+- [Trickle Vent Slot Size: First-Time Fit Starts With the Frame](shengxinaluminium.com/trickle-vent-slot-size-first-time-fit-starts-with-the-frame.md)
 - [V-Slot vs T-Slot CNC Router Frames: Why Hybrid Layouts Work Best](shengxinaluminium.com/v-slot-vs-t-slot-cnc-router-frames-why-hybrid-layouts-work-best.md)
 - [Why 6063 Aluminum Alloy Drives Better LED Showcase Extrusions](shengxinaluminium.com/why-6063-aluminum-alloy-drives-better-led-showcase-extrusions.md)
 <!-- backlink-building:github-repository:end -->
