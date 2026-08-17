@@ -15,6 +15,7 @@
 - [Automotive Aluminum Extrusion Supplier Selection: Why Integration Beats Price](shengxinaluminium.com/automotive-aluminum-extrusion-supplier-selection-why-integration-beats-price.md)
 - [Do All Windows Have Trickle Vents? Why Airtight Frames Changed the Answer](shengxinaluminium.com/do-all-windows-have-trickle-vents-why-airtight-frames-changed-the-answer.md)
 - [Facade Extrusion Design: How Custom Aluminum Profiles Control Curtain Wall Performance](shengxinaluminium.com/facade-extrusion-design-how-custom-aluminum-profiles-control-curtain-wall-performance.md)
+- [Heat Sink Fin Spacing: Why the Gap Matters More Than Fin Count](shengxinaluminium.com/heat-sink-fin-spacing-why-the-gap-matters-more-than-fin-count.md)
 - [Polycarbonate Thermal Cracking: Why Aluminum Extrusions Need Movement](shengxinaluminium.com/polycarbonate-thermal-cracking-why-aluminum-extrusions-need-movement.md)
 - [Solar Panel Frame Coating: Why Surface Treatment Matters More Than Alloy](shengxinaluminium.com/solar-panel-frame-coating-why-surface-treatment-matters-more-than-alloy.md)
 - [Thermal Breaks in Aluminum Window Frames: Why the Hidden Barrier Matters Most](shengxinaluminium.com/thermal-breaks-in-aluminum-window-frames-why-the-hidden-barrier-matters-most.md)
