@@ -14,6 +14,7 @@
 - [Aluminum Zee Extrusions: Choosing 6061 vs 6063 for the Right Job](shengxinaluminium.com/aluminum-zee-extrusions-choosing-6061-vs-6063-for-the-right-job.md)
 - [Automotive Aluminum Extrusion Supplier Selection: Why Integration Beats Price](shengxinaluminium.com/automotive-aluminum-extrusion-supplier-selection-why-integration-beats-price.md)
 - [Concealed Trickle Vent EA: Why Hidden Vents Succeed or Fail](shengxinaluminium.com/concealed-trickle-vent-ea-why-hidden-vents-succeed-or-fail.md)
+- [Die-Friendly Aluminum Extrusion Design That Cuts Tooling Costs](shengxinaluminium.com/die-friendly-aluminum-extrusion-design-that-cuts-tooling-costs.md)
 - [Do All Windows Have Trickle Vents? Why Airtight Frames Changed the Answer](shengxinaluminium.com/do-all-windows-have-trickle-vents-why-airtight-frames-changed-the-answer.md)
 - [Facade Extrusion Design: How Custom Aluminum Profiles Control Curtain Wall Performance](shengxinaluminium.com/facade-extrusion-design-how-custom-aluminum-profiles-control-curtain-wall-performance.md)
 - [Heat Sink Fin Spacing: Why the Gap Matters More Than Fin Count](shengxinaluminium.com/heat-sink-fin-spacing-why-the-gap-matters-more-than-fin-count.md)
