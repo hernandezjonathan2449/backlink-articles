@@ -25,6 +25,7 @@
 - [Thermal Breaks in Aluminum Window Frames: Why the Hidden Barrier Matters Most](shengxinaluminium.com/thermal-breaks-in-aluminum-window-frames-why-the-hidden-barrier-matters-most.md)
 - [Trickle Vent Airflow Path: Why the Slot Alone Won’t Stop Condensation](shengxinaluminium.com/trickle-vent-airflow-path-why-the-slot-alone-wont-stop-condensation.md)
 - [Trickle Vent Slot Size: First-Time Fit Starts With the Frame](shengxinaluminium.com/trickle-vent-slot-size-first-time-fit-starts-with-the-frame.md)
+- [Trickle Vents for Condensation: Why They Rarely Make a Home Cold](shengxinaluminium.com/trickle-vents-for-condensation-why-they-rarely-make-a-home-cold.md)
 - [V-Slot vs T-Slot CNC Router Frames: Why Hybrid Layouts Work Best](shengxinaluminium.com/v-slot-vs-t-slot-cnc-router-frames-why-hybrid-layouts-work-best.md)
 - [Why 6063 Aluminum Alloy Drives Better LED Showcase Extrusions](shengxinaluminium.com/why-6063-aluminum-alloy-drives-better-led-showcase-extrusions.md)
 <!-- backlink-building:github-repository:end -->
