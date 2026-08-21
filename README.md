@@ -24,6 +24,7 @@
 - [Surface Mounted Trickle Vent: The Retrofit Fix for Existing Windows](shengxinaluminium.com/surface-mounted-trickle-vent-the-retrofit-fix-for-existing-windows.md)
 - [Thermal Breaks in Aluminum Window Frames: Why the Hidden Barrier Matters Most](shengxinaluminium.com/thermal-breaks-in-aluminum-window-frames-why-the-hidden-barrier-matters-most.md)
 - [Trickle Vent Airflow Path: Why the Slot Alone Won’t Stop Condensation](shengxinaluminium.com/trickle-vent-airflow-path-why-the-slot-alone-wont-stop-condensation.md)
+- [Trickle Vent Installation: Why Frame Assessment Comes First](shengxinaluminium.com/trickle-vent-installation-why-frame-assessment-comes-first.md)
 - [Trickle Vent Slot Size: First-Time Fit Starts With the Frame](shengxinaluminium.com/trickle-vent-slot-size-first-time-fit-starts-with-the-frame.md)
 - [Trickle Vents for Condensation: Why They Rarely Make a Home Cold](shengxinaluminium.com/trickle-vents-for-condensation-why-they-rarely-make-a-home-cold.md)
 - [V-Slot vs T-Slot CNC Router Frames: Why Hybrid Layouts Work Best](shengxinaluminium.com/v-slot-vs-t-slot-cnc-router-frames-why-hybrid-layouts-work-best.md)
