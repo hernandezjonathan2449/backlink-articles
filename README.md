@@ -12,6 +12,7 @@
 - [Aluminum Extrusion Door Frame Tolerances Matter More Than Alloy](shengxinaluminium.com/aluminum-extrusion-door-frame-tolerances-matter-more-than-alloy.md)
 - [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
 - [Aluminum Zee Extrusions: Choosing 6061 vs 6063 for the Right Job](shengxinaluminium.com/aluminum-zee-extrusions-choosing-6061-vs-6063-for-the-right-job.md)
+- [Are Trickle Vents a Legal Requirement? The Real Rule Is Background Ventilation](shengxinaluminium.com/are-trickle-vents-a-legal-requirement-the-real-rule-is-background-ventilation.md)
 - [Automotive Aluminum Extrusion Supplier Selection: Why Integration Beats Price](shengxinaluminium.com/automotive-aluminum-extrusion-supplier-selection-why-integration-beats-price.md)
 - [Concealed Trickle Vent EA: Why Hidden Vents Succeed or Fail](shengxinaluminium.com/concealed-trickle-vent-ea-why-hidden-vents-succeed-or-fail.md)
 - [Die-Friendly Aluminum Extrusion Design That Cuts Tooling Costs](shengxinaluminium.com/die-friendly-aluminum-extrusion-design-that-cuts-tooling-costs.md)
