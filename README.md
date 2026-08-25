@@ -9,6 +9,7 @@
 - [6063 vs 6061 Aluminum Fence Extrusions: Choosing the Alloy That Actually Fits the Job](shengxinaluminium.com/6063-vs-6061-aluminum-fence-extrusions-choosing-the-alloy-that-actually-fits-the-job.md)
 - [Aluminum Alloy Selection in Bulk Extrusion: The Decision That Controls Cost and Performance](shengxinaluminium.com/aluminum-alloy-selection-in-bulk-extrusion-the-decision-that-controls-cost-and-performance.md)
 - [Aluminum Extrusion Alloy Selection: Finish, Cost, and Delivery](shengxinaluminium.com/aluminum-extrusion-alloy-selection-finish-cost-and-delivery.md)
+- [Aluminum Extrusion Cost Savings Come from Functional Integration](shengxinaluminium.com/aluminum-extrusion-cost-savings-come-from-functional-integration.md)
 - [Aluminum Extrusion Die Design: Why Tight Tolerances Start Here](shengxinaluminium.com/aluminum-extrusion-die-design-why-tight-tolerances-start-here.md)
 - [Aluminum Extrusion Door Frame Tolerances Matter More Than Alloy](shengxinaluminium.com/aluminum-extrusion-door-frame-tolerances-matter-more-than-alloy.md)
 - [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
