@@ -7,6 +7,7 @@
 - [6061 vs 6063 Aluminum Right Angle Extrusion: Choosing the Right Alloy](shengxinaluminium.com/6061-vs-6063-aluminum-right-angle-extrusion-choosing-the-right-alloy.md)
 - [6063 vs 6061 Aluminum Extrusion: Why Alloy and Temper Decide the Fit](shengxinaluminium.com/6063-vs-6061-aluminum-extrusion-why-alloy-and-temper-decide-the-fit.md)
 - [6063 vs 6061 Aluminum Fence Extrusions: Choosing the Alloy That Actually Fits the Job](shengxinaluminium.com/6063-vs-6061-aluminum-fence-extrusions-choosing-the-alloy-that-actually-fits-the-job.md)
+- [Aluminium Window Trickle Vents: How to Specify Them Without Ruining Slim Sightlines](shengxinaluminium.com/aluminium-window-trickle-vents-how-to-specify-them-without-ruining-slim-sightlines.md)
 - [Aluminum Alloy Selection in Bulk Extrusion: The Decision That Controls Cost and Performance](shengxinaluminium.com/aluminum-alloy-selection-in-bulk-extrusion-the-decision-that-controls-cost-and-performance.md)
 - [Aluminum Extrusion Alloy Selection: Finish, Cost, and Delivery](shengxinaluminium.com/aluminum-extrusion-alloy-selection-finish-cost-and-delivery.md)
 - [Aluminum Extrusion Cost Savings Come from Functional Integration](shengxinaluminium.com/aluminum-extrusion-cost-savings-come-from-functional-integration.md)
