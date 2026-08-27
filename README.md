@@ -33,6 +33,7 @@
 - [Trickle Vent Airflow Path: Why the Slot Alone Won’t Stop Condensation](shengxinaluminium.com/trickle-vent-airflow-path-why-the-slot-alone-wont-stop-condensation.md)
 - [Trickle Vent Equivalent Area: The Spec That Actually Determines Performance](shengxinaluminium.com/trickle-vent-equivalent-area-the-spec-that-actually-determines-performance.md)
 - [Trickle Vent Installation: Why Frame Assessment Comes First](shengxinaluminium.com/trickle-vent-installation-why-frame-assessment-comes-first.md)
+- [Trickle Vent Noise Reduction: Why Lab Ratings Don't Match Reality](shengxinaluminium.com/trickle-vent-noise-reduction-why-lab-ratings-don-t-match-reality.md)
 - [Trickle Vent Slot Size: First-Time Fit Starts With the Frame](shengxinaluminium.com/trickle-vent-slot-size-first-time-fit-starts-with-the-frame.md)
 - [Trickle Vents for Condensation: Why They Rarely Make a Home Cold](shengxinaluminium.com/trickle-vents-for-condensation-why-they-rarely-make-a-home-cold.md)
 - [uPVC Window Trickle Vents: Why Background Ventilation Matters in Airtight Homes](shengxinaluminium.com/upvc-window-trickle-vents-why-background-ventilation-matters-in-airtight-homes.md)
