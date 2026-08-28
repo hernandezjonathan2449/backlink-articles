@@ -32,6 +32,7 @@
 - [Total Landed Cost for Aluminum Extrusion Profiles Manufacturers: Why the Lowest Quote Misleads](shengxinaluminium.com/total-landed-cost-for-aluminum-extrusion-profiles-manufacturers-why-the-lowest-quote-misleads.md)
 - [Total Landed Cost for Custom Aluminum Extrusions: The Number That Actually Matters](shengxinaluminium.com/total-landed-cost-for-custom-aluminum-extrusions-the-number-that-actually-matters.md)
 - [Trickle Vent Airflow Path: Why the Slot Alone Won’t Stop Condensation](shengxinaluminium.com/trickle-vent-airflow-path-why-the-slot-alone-wont-stop-condensation.md)
+- [Trickle Vent Canopy Compliance: Why Fit Alone Is Never Enough](shengxinaluminium.com/trickle-vent-canopy-compliance-why-fit-alone-is-never-enough.md)
 - [Trickle Vent Equivalent Area: The Spec That Actually Determines Performance](shengxinaluminium.com/trickle-vent-equivalent-area-the-spec-that-actually-determines-performance.md)
 - [Trickle Vent Installation: Why Frame Assessment Comes First](shengxinaluminium.com/trickle-vent-installation-why-frame-assessment-comes-first.md)
 - [Trickle Vent Noise Reduction: Why Lab Ratings Don't Match Reality](shengxinaluminium.com/trickle-vent-noise-reduction-why-lab-ratings-don-t-match-reality.md)
