@@ -46,4 +46,5 @@
 - [V-Slot vs T-Slot CNC Router Frames: Why Hybrid Layouts Work Best](shengxinaluminium.com/v-slot-vs-t-slot-cnc-router-frames-why-hybrid-layouts-work-best.md)
 - [Why 6063 Aluminum Alloy Drives Better LED Showcase Extrusions](shengxinaluminium.com/why-6063-aluminum-alloy-drives-better-led-showcase-extrusions.md)
 - [Why Aluminum Extrusion Supplier Specialization Matters More Than Factory Size](shengxinaluminium.com/why-aluminum-extrusion-supplier-specialization-matters-more-than-factory-size.md)
+- [Window Trickle Vents for Condensation Control Without Cold Drafts](shengxinaluminium.com/window-trickle-vents-for-condensation-control-without-cold-drafts.md)
 <!-- backlink-building:github-repository:end -->
