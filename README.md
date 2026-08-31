@@ -5,6 +5,7 @@
 <!-- backlink-building:github-repository:start -->
 ### shengxinaluminium.com
 - [6061 vs 6063 Aluminum Right Angle Extrusion: Choosing the Right Alloy](shengxinaluminium.com/6061-vs-6063-aluminum-right-angle-extrusion-choosing-the-right-alloy.md)
+- [6063 Aluminum Surface Finish: Why It Beats Stronger Alloys](shengxinaluminium.com/6063-aluminum-surface-finish-why-it-beats-stronger-alloys.md)
 - [6063 vs 6061 Aluminum Extrusion: Why Alloy and Temper Decide the Fit](shengxinaluminium.com/6063-vs-6061-aluminum-extrusion-why-alloy-and-temper-decide-the-fit.md)
 - [6063 vs 6061 Aluminum Fence Extrusions: Choosing the Alloy That Actually Fits the Job](shengxinaluminium.com/6063-vs-6061-aluminum-fence-extrusions-choosing-the-alloy-that-actually-fits-the-job.md)
 - [Aluminium Window Trickle Vents: How to Specify Them Without Ruining Slim Sightlines](shengxinaluminium.com/aluminium-window-trickle-vents-how-to-specify-them-without-ruining-slim-sightlines.md)
