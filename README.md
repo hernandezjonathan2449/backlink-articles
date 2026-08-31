@@ -14,6 +14,7 @@
 - [Aluminum Extrusion Cost Savings Come from Functional Integration](shengxinaluminium.com/aluminum-extrusion-cost-savings-come-from-functional-integration.md)
 - [Aluminum Extrusion Die Design: Why Tight Tolerances Start Here](shengxinaluminium.com/aluminum-extrusion-die-design-why-tight-tolerances-start-here.md)
 - [Aluminum Extrusion Door Frame Tolerances Matter More Than Alloy](shengxinaluminium.com/aluminum-extrusion-door-frame-tolerances-matter-more-than-alloy.md)
+- [Aluminum Extrusion Landed Cost: Why the Lowest Quote Can Be the Most Expensive](shengxinaluminium.com/aluminum-extrusion-landed-cost-why-the-lowest-quote-can-be-the-most-expensive.md)
 - [Aluminum Extrusion Pipe Suppliers: Why Supplier Transparency Saves Buyers Thousands](shengxinaluminium.com/aluminum-extrusion-pipe-suppliers-why-supplier-transparency-saves-buyers-thousands.md)
 - [Aluminum Extrusion Pretreatment: The Step That Prevents Powder Coating Failure](shengxinaluminium.com/aluminum-extrusion-pretreatment-the-step-that-prevents-powder-coating-failure.md)
 - [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
