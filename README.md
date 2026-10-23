@@ -29,6 +29,7 @@
 - [Facade Extrusion Design: How Custom Aluminum Profiles Control Curtain Wall Performance](shengxinaluminium.com/facade-extrusion-design-how-custom-aluminum-profiles-control-curtain-wall-performance.md)
 - [Greenhouse Aluminum Extrusions: Why Fit Matters More Than Strength](shengxinaluminium.com/greenhouse-aluminum-extrusions-why-fit-matters-more-than-strength.md)
 - [Heat Sink Fin Spacing: Why the Gap Matters More Than Fin Count](shengxinaluminium.com/heat-sink-fin-spacing-why-the-gap-matters-more-than-fin-count.md)
+- [Minimum Wall Thickness: Design for Production, Not Possibility](shengxinaluminium.com/minimum-wall-thickness-design-for-production-not-possibility.md)
 - [Polycarbonate Thermal Cracking: Why Aluminum Extrusions Need Movement](shengxinaluminium.com/polycarbonate-thermal-cracking-why-aluminum-extrusions-need-movement.md)
 - [Solar Panel Frame Coating: Why Surface Treatment Matters More Than Alloy](shengxinaluminium.com/solar-panel-frame-coating-why-surface-treatment-matters-more-than-alloy.md)
 - [Surface Mounted Trickle Vent: The Retrofit Fix for Existing Windows](shengxinaluminium.com/surface-mounted-trickle-vent-the-retrofit-fix-for-existing-windows.md)
