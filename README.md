@@ -23,6 +23,7 @@
 - [Aluminum Zee Extrusions: Choosing 6061 vs 6063 for the Right Job](shengxinaluminium.com/aluminum-zee-extrusions-choosing-6061-vs-6063-for-the-right-job.md)
 - [Are Trickle Vents a Legal Requirement? The Real Rule Is Background Ventilation](shengxinaluminium.com/are-trickle-vents-a-legal-requirement-the-real-rule-is-background-ventilation.md)
 - [Automotive Aluminum Extrusion Supplier Selection: Why Integration Beats Price](shengxinaluminium.com/automotive-aluminum-extrusion-supplier-selection-why-integration-beats-price.md)
+- [Complex Aluminum Extrusion Manufacturer Selection: Capability First](shengxinaluminium.com/complex-aluminum-extrusion-manufacturer-selection-capability-first.md)
 - [Concealed Trickle Vent EA: Why Hidden Vents Succeed or Fail](shengxinaluminium.com/concealed-trickle-vent-ea-why-hidden-vents-succeed-or-fail.md)
 - [Die-Friendly Aluminum Extrusion Design That Cuts Tooling Costs](shengxinaluminium.com/die-friendly-aluminum-extrusion-design-that-cuts-tooling-costs.md)
 - [Do All Windows Have Trickle Vents? Why Airtight Frames Changed the Answer](shengxinaluminium.com/do-all-windows-have-trickle-vents-why-airtight-frames-changed-the-answer.md)
