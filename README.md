@@ -34,6 +34,7 @@
 - [Do All Windows Have Trickle Vents? Why Airtight Frames Changed the Answer](shengxinaluminium.com/do-all-windows-have-trickle-vents-why-airtight-frames-changed-the-answer.md)
 - [Extrusion Die Costs: What Really Drives a Custom Aluminum Quote](shengxinaluminium.com/extrusion-die-costs-what-really-drives-a-custom-aluminum-quote.md)
 - [Facade Extrusion Design: How Custom Aluminum Profiles Control Curtain Wall Performance](shengxinaluminium.com/facade-extrusion-design-how-custom-aluminum-profiles-control-curtain-wall-performance.md)
+- [Glass Wall Framing: Let Installation Drive the Aluminum Extrusion Spec](shengxinaluminium.com/glass-wall-framing-let-installation-drive-the-aluminum-extrusion-spec.md)
 - [Greenhouse Aluminum Extrusions: Why Fit Matters More Than Strength](shengxinaluminium.com/greenhouse-aluminum-extrusions-why-fit-matters-more-than-strength.md)
 - [Heat Sink Fin Spacing: Why the Gap Matters More Than Fin Count](shengxinaluminium.com/heat-sink-fin-spacing-why-the-gap-matters-more-than-fin-count.md)
 - [Minimum Wall Thickness: Design for Production, Not Possibility](shengxinaluminium.com/minimum-wall-thickness-design-for-production-not-possibility.md)
