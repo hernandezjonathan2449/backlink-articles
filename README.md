@@ -10,6 +10,7 @@
 - [6063 vs 6061 Aluminum Fence Extrusions: Choosing the Alloy That Actually Fits the Job](shengxinaluminium.com/6063-vs-6061-aluminum-fence-extrusions-choosing-the-alloy-that-actually-fits-the-job.md)
 - [Aluminium Window Trickle Vents: How to Specify Them Without Ruining Slim Sightlines](shengxinaluminium.com/aluminium-window-trickle-vents-how-to-specify-them-without-ruining-slim-sightlines.md)
 - [Aluminum Alloy Selection in Bulk Extrusion: The Decision That Controls Cost and Performance](shengxinaluminium.com/aluminum-alloy-selection-in-bulk-extrusion-the-decision-that-controls-cost-and-performance.md)
+- [Aluminum Alloy Selection: Choose for the Finished Part, Not Peak Strength](shengxinaluminium.com/aluminum-alloy-selection-choose-for-the-finished-part-not-peak-strength.md)
 - [Aluminum Extrusion Alloy Selection: Finish, Cost, and Delivery](shengxinaluminium.com/aluminum-extrusion-alloy-selection-finish-cost-and-delivery.md)
 - [Aluminum Extrusion Cost Savings Come from Functional Integration](shengxinaluminium.com/aluminum-extrusion-cost-savings-come-from-functional-integration.md)
 - [Aluminum Extrusion Cost: The Per-Pound Quote Is Not the Price](shengxinaluminium.com/aluminum-extrusion-cost-the-per-pound-quote-is-not-the-price.md)
