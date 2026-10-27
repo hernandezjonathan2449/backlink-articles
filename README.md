@@ -38,6 +38,7 @@
 - [Greenhouse Aluminum Extrusions: Why Fit Matters More Than Strength](shengxinaluminium.com/greenhouse-aluminum-extrusions-why-fit-matters-more-than-strength.md)
 - [Heat Sink Fin Spacing: Why the Gap Matters More Than Fin Count](shengxinaluminium.com/heat-sink-fin-spacing-why-the-gap-matters-more-than-fin-count.md)
 - [Minimum Wall Thickness: Design for Production, Not Possibility](shengxinaluminium.com/minimum-wall-thickness-design-for-production-not-possibility.md)
+- [Modular Aluminum Framing: Design for the Next Change](shengxinaluminium.com/modular-aluminum-framing-design-for-the-next-change.md)
 - [Polycarbonate Thermal Cracking: Why Aluminum Extrusions Need Movement](shengxinaluminium.com/polycarbonate-thermal-cracking-why-aluminum-extrusions-need-movement.md)
 - [Solar Panel Frame Coating: Why Surface Treatment Matters More Than Alloy](shengxinaluminium.com/solar-panel-frame-coating-why-surface-treatment-matters-more-than-alloy.md)
 - [Square Aluminum Extrusion: Design the Load Path First](shengxinaluminium.com/square-aluminum-extrusion-design-the-load-path-first.md)
