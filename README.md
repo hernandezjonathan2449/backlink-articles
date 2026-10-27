@@ -21,6 +21,7 @@
 - [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
 - [Aluminum Extrusion Quality: Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-quality-process-control-beats-press-size.md)
 - [Aluminum Extrusion Sourcing: Validate Your First China Order](shengxinaluminium.com/aluminum-extrusion-sourcing-validate-your-first-china-order.md)
+- [Aluminum Extrusion Vendors: Why Handoff Control Matters](shengxinaluminium.com/aluminum-extrusion-vendors-why-handoff-control-matters.md)
 - [Aluminum Storefront Extrusions: How Profile Design Controls Facade Performance](shengxinaluminium.com/aluminum-storefront-extrusions-how-profile-design-controls-facade-performance.md)
 - [Aluminum Zee Extrusions: Choosing 6061 vs 6063 for the Right Job](shengxinaluminium.com/aluminum-zee-extrusions-choosing-6061-vs-6063-for-the-right-job.md)
 - [Are Trickle Vents a Legal Requirement? The Real Rule Is Background Ventilation](shengxinaluminium.com/are-trickle-vents-a-legal-requirement-the-real-rule-is-background-ventilation.md)
