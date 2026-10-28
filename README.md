@@ -40,6 +40,7 @@
 - [Minimum Wall Thickness: Design for Production, Not Possibility](shengxinaluminium.com/minimum-wall-thickness-design-for-production-not-possibility.md)
 - [Modular Aluminum Framing: Design for the Next Change](shengxinaluminium.com/modular-aluminum-framing-design-for-the-next-change.md)
 - [Polycarbonate Thermal Cracking: Why Aluminum Extrusions Need Movement](shengxinaluminium.com/polycarbonate-thermal-cracking-why-aluminum-extrusions-need-movement.md)
+- [Powder Coating Specification for Aluminum Extrusions: Define the Whole System](shengxinaluminium.com/powder-coating-specification-for-aluminum-extrusions-define-the-whole-system.md)
 - [Solar Panel Frame Coating: Why Surface Treatment Matters More Than Alloy](shengxinaluminium.com/solar-panel-frame-coating-why-surface-treatment-matters-more-than-alloy.md)
 - [Square Aluminum Extrusion: Design the Load Path First](shengxinaluminium.com/square-aluminum-extrusion-design-the-load-path-first.md)
 - [Surface Mounted Trickle Vent: The Retrofit Fix for Existing Windows](shengxinaluminium.com/surface-mounted-trickle-vent-the-retrofit-fix-for-existing-windows.md)
