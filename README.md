@@ -25,6 +25,7 @@
 - [Aluminum Extrusion Sourcing: Validate Your First China Order](shengxinaluminium.com/aluminum-extrusion-sourcing-validate-your-first-china-order.md)
 - [Aluminum Extrusion Vendors: Why Handoff Control Matters](shengxinaluminium.com/aluminum-extrusion-vendors-why-handoff-control-matters.md)
 - [Aluminum Mirror Installation: Why Tolerances Decide the Result](shengxinaluminium.com/aluminum-mirror-installation-why-tolerances-decide-the-result.md)
+- [Aluminum Rectangular Extrusion Sizing: Match Alloy to Geometry](shengxinaluminium.com/aluminum-rectangular-extrusion-sizing-match-alloy-to-geometry.md)
 - [Aluminum Storefront Extrusions: How Profile Design Controls Facade Performance](shengxinaluminium.com/aluminum-storefront-extrusions-how-profile-design-controls-facade-performance.md)
 - [Aluminum Zee Extrusions: Choosing 6061 vs 6063 for the Right Job](shengxinaluminium.com/aluminum-zee-extrusions-choosing-6061-vs-6063-for-the-right-job.md)
 - [Are Trickle Vents a Legal Requirement? The Real Rule Is Background Ventilation](shengxinaluminium.com/are-trickle-vents-a-legal-requirement-the-real-rule-is-background-ventilation.md)
