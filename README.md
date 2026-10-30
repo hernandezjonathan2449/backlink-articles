@@ -41,6 +41,7 @@
 - [Glass Wall Framing: Let Installation Drive the Aluminum Extrusion Spec](shengxinaluminium.com/glass-wall-framing-let-installation-drive-the-aluminum-extrusion-spec.md)
 - [Greenhouse Aluminum Extrusions: Why Fit Matters More Than Strength](shengxinaluminium.com/greenhouse-aluminum-extrusions-why-fit-matters-more-than-strength.md)
 - [Heat Sink Fin Spacing: Why the Gap Matters More Than Fin Count](shengxinaluminium.com/heat-sink-fin-spacing-why-the-gap-matters-more-than-fin-count.md)
+- [Integrated Aluminum Extrusion Fabrication: Quality by Design](shengxinaluminium.com/integrated-aluminum-extrusion-fabrication-quality-by-design.md)
 - [Large Aluminum Extrusion Design: Early Decisions Drive Success](shengxinaluminium.com/large-aluminum-extrusion-design-early-decisions-drive-success.md)
 - [Minimum Wall Thickness: Design for Production, Not Possibility](shengxinaluminium.com/minimum-wall-thickness-design-for-production-not-possibility.md)
 - [Modular Aluminum Framing: Design for the Next Change](shengxinaluminium.com/modular-aluminum-framing-design-for-the-next-change.md)
