@@ -25,6 +25,7 @@
 - [Aluminum Extrusion Sourcing: Validate Your First China Order](shengxinaluminium.com/aluminum-extrusion-sourcing-validate-your-first-china-order.md)
 - [Aluminum Extrusion Sourcing: Why Process Control Beats Price](shengxinaluminium.com/aluminum-extrusion-sourcing-why-process-control-beats-price.md)
 - [Aluminum Extrusion Vendors: Why Handoff Control Matters](shengxinaluminium.com/aluminum-extrusion-vendors-why-handoff-control-matters.md)
+- [Aluminum Extrusion Wall Thickness: The Design Rule That Protects Dies](shengxinaluminium.com/aluminum-extrusion-wall-thickness-the-design-rule-that-protects-dies.md)
 - [Aluminum Mirror Installation: Why Tolerances Decide the Result](shengxinaluminium.com/aluminum-mirror-installation-why-tolerances-decide-the-result.md)
 - [Aluminum Rectangular Extrusion Sizing: Match Alloy to Geometry](shengxinaluminium.com/aluminum-rectangular-extrusion-sizing-match-alloy-to-geometry.md)
 - [Aluminum Storefront Extrusions: How Profile Design Controls Facade Performance](shengxinaluminium.com/aluminum-storefront-extrusions-how-profile-design-controls-facade-performance.md)
