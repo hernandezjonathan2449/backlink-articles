@@ -23,6 +23,7 @@
 - [Aluminum Extrusion Profiles: Why Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-profiles-why-process-control-beats-press-size.md)
 - [Aluminum Extrusion Quality: Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-quality-process-control-beats-press-size.md)
 - [Aluminum Extrusion Sourcing: Validate Your First China Order](shengxinaluminium.com/aluminum-extrusion-sourcing-validate-your-first-china-order.md)
+- [Aluminum Extrusion Sourcing: Why Process Control Beats Price](shengxinaluminium.com/aluminum-extrusion-sourcing-why-process-control-beats-price.md)
 - [Aluminum Extrusion Vendors: Why Handoff Control Matters](shengxinaluminium.com/aluminum-extrusion-vendors-why-handoff-control-matters.md)
 - [Aluminum Mirror Installation: Why Tolerances Decide the Result](shengxinaluminium.com/aluminum-mirror-installation-why-tolerances-decide-the-result.md)
 - [Aluminum Rectangular Extrusion Sizing: Match Alloy to Geometry](shengxinaluminium.com/aluminum-rectangular-extrusion-sizing-match-alloy-to-geometry.md)
