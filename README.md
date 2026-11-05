@@ -61,6 +61,7 @@
 - [Surface Mounted Trickle Vent: The Retrofit Fix for Existing Windows](shengxinaluminium.com/surface-mounted-trickle-vent-the-retrofit-fix-for-existing-windows.md)
 - [T-Slot vs V-Slot: Choose the Guide, Not Just the Profile](shengxinaluminium.com/t-slot-vs-v-slot-choose-the-guide-not-just-the-profile.md)
 - [Thermal Breaks in Aluminum Window Frames: Why the Hidden Barrier Matters Most](shengxinaluminium.com/thermal-breaks-in-aluminum-window-frames-why-the-hidden-barrier-matters-most.md)
+- [Thermally Broken Aluminum Windows: Why the Thermal Break Matters](shengxinaluminium.com/thermally-broken-aluminum-windows-why-the-thermal-break-matters.md)
 - [Total Landed Cost for Aluminum Extrusion Profiles Manufacturers: Why the Lowest Quote Misleads](shengxinaluminium.com/total-landed-cost-for-aluminum-extrusion-profiles-manufacturers-why-the-lowest-quote-misleads.md)
 - [Total Landed Cost for Custom Aluminum Extrusions: The Number That Actually Matters](shengxinaluminium.com/total-landed-cost-for-custom-aluminum-extrusions-the-number-that-actually-matters.md)
 - [Trickle Vent Airflow Path: Why the Slot Alone Won’t Stop Condensation](shengxinaluminium.com/trickle-vent-airflow-path-why-the-slot-alone-wont-stop-condensation.md)
