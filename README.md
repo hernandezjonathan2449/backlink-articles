@@ -8,6 +8,7 @@
 - [6063 Aluminum Surface Finish: Why It Beats Stronger Alloys](shengxinaluminium.com/6063-aluminum-surface-finish-why-it-beats-stronger-alloys.md)
 - [6063 vs 6061 Aluminum Extrusion: Why Alloy and Temper Decide the Fit](shengxinaluminium.com/6063-vs-6061-aluminum-extrusion-why-alloy-and-temper-decide-the-fit.md)
 - [6063 vs 6061 Aluminum Fence Extrusions: Choosing the Alloy That Actually Fits the Job](shengxinaluminium.com/6063-vs-6061-aluminum-fence-extrusions-choosing-the-alloy-that-actually-fits-the-job.md)
+- [AAMA Coating Standards for Aluminum Extrusions: Choose by Exposure](shengxinaluminium.com/aama-coating-standards-for-aluminum-extrusions-choose-by-exposure.md)
 - [Aluminium Window Trickle Vents: How to Specify Them Without Ruining Slim Sightlines](shengxinaluminium.com/aluminium-window-trickle-vents-how-to-specify-them-without-ruining-slim-sightlines.md)
 - [Aluminum Alloy Selection in Bulk Extrusion: The Decision That Controls Cost and Performance](shengxinaluminium.com/aluminum-alloy-selection-in-bulk-extrusion-the-decision-that-controls-cost-and-performance.md)
 - [Aluminum Alloy Selection: Choose for the Finished Part, Not Peak Strength](shengxinaluminium.com/aluminum-alloy-selection-choose-for-the-finished-part-not-peak-strength.md)
