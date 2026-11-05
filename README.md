@@ -45,6 +45,7 @@
 - [Integrated Aluminum Extrusion Fabrication: Quality by Design](shengxinaluminium.com/integrated-aluminum-extrusion-fabrication-quality-by-design.md)
 - [IP Rated Aluminum Enclosure Design: Why the Assembly Earns the Rating](shengxinaluminium.com/ip-rated-aluminum-enclosure-design-why-the-assembly-earns-the-rating.md)
 - [Large Aluminum Extrusion Design: Early Decisions Drive Success](shengxinaluminium.com/large-aluminum-extrusion-design-early-decisions-drive-success.md)
+- [Large-Diameter Aluminum Extrusion Alloy Selection: Beyond Strength](shengxinaluminium.com/large-diameter-aluminum-extrusion-alloy-selection-beyond-strength.md)
 - [Minimum Wall Thickness: Design for Production, Not Possibility](shengxinaluminium.com/minimum-wall-thickness-design-for-production-not-possibility.md)
 - [Modular Aluminum Framing: Design for the Next Change](shengxinaluminium.com/modular-aluminum-framing-design-for-the-next-change.md)
 - [Polycarbonate Thermal Cracking: Why Aluminum Extrusions Need Movement](shengxinaluminium.com/polycarbonate-thermal-cracking-why-aluminum-extrusions-need-movement.md)
