@@ -59,6 +59,7 @@
 - [Solar Panel Frame Coating: Why Surface Treatment Matters More Than Alloy](shengxinaluminium.com/solar-panel-frame-coating-why-surface-treatment-matters-more-than-alloy.md)
 - [Square Aluminum Extrusion: Design the Load Path First](shengxinaluminium.com/square-aluminum-extrusion-design-the-load-path-first.md)
 - [Surface Mounted Trickle Vent: The Retrofit Fix for Existing Windows](shengxinaluminium.com/surface-mounted-trickle-vent-the-retrofit-fix-for-existing-windows.md)
+- [Sustainable Aluminum Verification: Proof Beyond Recycled Content](shengxinaluminium.com/sustainable-aluminum-verification-proof-beyond-recycled-content.md)
 - [T-Slot vs V-Slot: Choose the Guide, Not Just the Profile](shengxinaluminium.com/t-slot-vs-v-slot-choose-the-guide-not-just-the-profile.md)
 - [Thermal Breaks in Aluminum Window Frames: Why the Hidden Barrier Matters Most](shengxinaluminium.com/thermal-breaks-in-aluminum-window-frames-why-the-hidden-barrier-matters-most.md)
 - [Thermally Broken Aluminum Windows: Why the Thermal Break Matters](shengxinaluminium.com/thermally-broken-aluminum-windows-why-the-thermal-break-matters.md)
