@@ -4,6 +4,7 @@
 
 <!-- backlink-building:github-repository:start -->
 ### shengxinaluminium.com
+- [6005A Aluminum Extrusions: Why Balanced Strength Wins in Construction Design](shengxinaluminium.com/6005a-aluminum-extrusions-why-balanced-strength-wins-in-construction-design.md)
 - [6061 vs 6063 Aluminum Right Angle Extrusion: Choosing the Right Alloy](shengxinaluminium.com/6061-vs-6063-aluminum-right-angle-extrusion-choosing-the-right-alloy.md)
 - [6063 Aluminum Surface Finish: Why It Beats Stronger Alloys](shengxinaluminium.com/6063-aluminum-surface-finish-why-it-beats-stronger-alloys.md)
 - [6063 vs 6061 Aluminum Extrusion: Why Alloy and Temper Decide the Fit](shengxinaluminium.com/6063-vs-6061-aluminum-extrusion-why-alloy-and-temper-decide-the-fit.md)
