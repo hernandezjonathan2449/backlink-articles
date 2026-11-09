@@ -31,6 +31,7 @@
 - [Aluminum Extrusion Wall Thickness: The Design Rule That Protects Dies](shengxinaluminium.com/aluminum-extrusion-wall-thickness-the-design-rule-that-protects-dies.md)
 - [Aluminum Garage Door Frames: Why Alignment Matters More Than Alloy](shengxinaluminium.com/aluminum-garage-door-frames-why-alignment-matters-more-than-alloy.md)
 - [Aluminum Mirror Installation: Why Tolerances Decide the Result](shengxinaluminium.com/aluminum-mirror-installation-why-tolerances-decide-the-result.md)
+- [Aluminum Profile Selection: Design Around the Load Path](shengxinaluminium.com/aluminum-profile-selection-design-around-the-load-path.md)
 - [Aluminum Rectangular Extrusion Sizing: Match Alloy to Geometry](shengxinaluminium.com/aluminum-rectangular-extrusion-sizing-match-alloy-to-geometry.md)
 - [Aluminum Storefront Extrusions: How Profile Design Controls Facade Performance](shengxinaluminium.com/aluminum-storefront-extrusions-how-profile-design-controls-facade-performance.md)
 - [Aluminum vs Steel: The Extrusion Geometry Advantage](shengxinaluminium.com/aluminum-vs-steel-the-extrusion-geometry-advantage.md)
