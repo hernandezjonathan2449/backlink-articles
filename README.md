@@ -58,6 +58,7 @@
 - [Polycarbonate Thermal Cracking: Why Aluminum Extrusions Need Movement](shengxinaluminium.com/polycarbonate-thermal-cracking-why-aluminum-extrusions-need-movement.md)
 - [Powder Coating Specification for Aluminum Extrusions: Define the Whole System](shengxinaluminium.com/powder-coating-specification-for-aluminum-extrusions-define-the-whole-system.md)
 - [Rounded Corner Aluminum Angles: The Reliability Advantage](shengxinaluminium.com/rounded-corner-aluminum-angles-the-reliability-advantage.md)
+- [Short Run Aluminum Extrusion: Control Tooling Costs First](shengxinaluminium.com/short-run-aluminum-extrusion-control-tooling-costs-first.md)
 - [Signage Extrusion Design: Why Profile Stiffness Comes First](shengxinaluminium.com/signage-extrusion-design-why-profile-stiffness-comes-first.md)
 - [Solar Panel Frame Coating: Why Surface Treatment Matters More Than Alloy](shengxinaluminium.com/solar-panel-frame-coating-why-surface-treatment-matters-more-than-alloy.md)
 - [Square Aluminum Extrusion: Design the Load Path First](shengxinaluminium.com/square-aluminum-extrusion-design-the-load-path-first.md)
