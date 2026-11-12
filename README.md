@@ -30,6 +30,7 @@
 - [Aluminum Extrusion Quality: Process Control Beats Press Size](shengxinaluminium.com/aluminum-extrusion-quality-process-control-beats-press-size.md)
 - [Aluminum Extrusion Sourcing: Validate Your First China Order](shengxinaluminium.com/aluminum-extrusion-sourcing-validate-your-first-china-order.md)
 - [Aluminum Extrusion Sourcing: Why Process Control Beats Price](shengxinaluminium.com/aluminum-extrusion-sourcing-why-process-control-beats-price.md)
+- [Aluminum Extrusion Supplier Choice: Window Project Risk Control](shengxinaluminium.com/aluminum-extrusion-supplier-choice-window-project-risk-control.md)
 - [Aluminum Extrusion Vendors: Why Handoff Control Matters](shengxinaluminium.com/aluminum-extrusion-vendors-why-handoff-control-matters.md)
 - [Aluminum Extrusion Wall Thickness: The Design Rule That Protects Dies](shengxinaluminium.com/aluminum-extrusion-wall-thickness-the-design-rule-that-protects-dies.md)
 - [Aluminum Garage Door Frames: Why Alignment Matters More Than Alloy](shengxinaluminium.com/aluminum-garage-door-frames-why-alignment-matters-more-than-alloy.md)
