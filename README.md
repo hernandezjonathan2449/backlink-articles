@@ -14,6 +14,7 @@
 - [Aluminium Window Trickle Vents: How to Specify Them Without Ruining Slim Sightlines](shengxinaluminium.com/aluminium-window-trickle-vents-how-to-specify-them-without-ruining-slim-sightlines.md)
 - [Aluminum Alloy Selection for Custom Extrusion Parts](shengxinaluminium.com/aluminum-alloy-selection-for-custom-extrusion-parts.md)
 - [Aluminum Alloy Selection in Bulk Extrusion: The Decision That Controls Cost and Performance](shengxinaluminium.com/aluminum-alloy-selection-in-bulk-extrusion-the-decision-that-controls-cost-and-performance.md)
+- [Aluminum Alloy Selection Is the First Surface-Finish Decision](shengxinaluminium.com/aluminum-alloy-selection-is-the-first-surface-finish-decision.md)
 - [Aluminum Alloy Selection: Choose for the Finished Part, Not Peak Strength](shengxinaluminium.com/aluminum-alloy-selection-choose-for-the-finished-part-not-peak-strength.md)
 - [Aluminum Extrusion Alloy Selection: Finish, Cost, and Delivery](shengxinaluminium.com/aluminum-extrusion-alloy-selection-finish-cost-and-delivery.md)
 - [Aluminum Extrusion Cabinet Design: Build the Load Path First](shengxinaluminium.com/aluminum-extrusion-cabinet-design-build-the-load-path-first.md)
