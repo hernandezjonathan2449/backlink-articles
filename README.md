@@ -43,6 +43,7 @@
 - [Automotive Aluminum Extrusion Supplier Selection: Why Integration Beats Price](shengxinaluminium.com/automotive-aluminum-extrusion-supplier-selection-why-integration-beats-price.md)
 - [Complex Aluminum Extrusion Manufacturer Selection: Capability First](shengxinaluminium.com/complex-aluminum-extrusion-manufacturer-selection-capability-first.md)
 - [Concealed Trickle Vent EA: Why Hidden Vents Succeed or Fail](shengxinaluminium.com/concealed-trickle-vent-ea-why-hidden-vents-succeed-or-fail.md)
+- [Custom Aluminum Extrusion Supplier: Choose a Design Partner](shengxinaluminium.com/custom-aluminum-extrusion-supplier-choose-a-design-partner.md)
 - [Custom Aluminum Extrusion Supplier: Total Cost vs. Unit Price](shengxinaluminium.com/custom-aluminum-extrusion-supplier-total-cost-vs-unit-price.md)
 - [Custom Aluminum Extrusion: Why the First Sketch Controls Cost and Quality](shengxinaluminium.com/custom-aluminum-extrusion-why-the-first-sketch-controls-cost-and-quality.md)
 - [Die-Friendly Aluminum Extrusion Design That Cuts Tooling Costs](shengxinaluminium.com/die-friendly-aluminum-extrusion-design-that-cuts-tooling-costs.md)
