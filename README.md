@@ -17,6 +17,7 @@
 - [Aluminum Alloy Selection Is the First Surface-Finish Decision](shengxinaluminium.com/aluminum-alloy-selection-is-the-first-surface-finish-decision.md)
 - [Aluminum Alloy Selection: Choose for the Finished Part, Not Peak Strength](shengxinaluminium.com/aluminum-alloy-selection-choose-for-the-finished-part-not-peak-strength.md)
 - [Aluminum Extrusion Alloy Selection: Finish, Cost, and Delivery](shengxinaluminium.com/aluminum-extrusion-alloy-selection-finish-cost-and-delivery.md)
+- [Aluminum Extrusion Alloy Selection: Why the Strongest Grade Isn't Always Best](shengxinaluminium.com/aluminum-extrusion-alloy-selection-why-the-strongest-grade-isn-t-always-best.md)
 - [Aluminum Extrusion Cabinet Design: Build the Load Path First](shengxinaluminium.com/aluminum-extrusion-cabinet-design-build-the-load-path-first.md)
 - [Aluminum Extrusion Cost in Saudi Arabia: Beyond Price per Kilogram](shengxinaluminium.com/aluminum-extrusion-cost-in-saudi-arabia-beyond-price-per-kilogram.md)
 - [Aluminum Extrusion Cost Savings Come from Functional Integration](shengxinaluminium.com/aluminum-extrusion-cost-savings-come-from-functional-integration.md)
