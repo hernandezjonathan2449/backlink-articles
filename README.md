@@ -50,6 +50,7 @@
 - [Architectural Aluminum Extrusions: Thermal Break Design](shengxinaluminium.com/architectural-aluminum-extrusions-thermal-break-design.md)
 - [Are Trickle Vents a Legal Requirement? The Real Rule Is Background Ventilation](shengxinaluminium.com/are-trickle-vents-a-legal-requirement-the-real-rule-is-background-ventilation.md)
 - [Automotive Aluminum Extrusion Supplier Selection: Why Integration Beats Price](shengxinaluminium.com/automotive-aluminum-extrusion-supplier-selection-why-integration-beats-price.md)
+- [Black Aluminum Extrusion: Specify the System, Not Just the Finish](shengxinaluminium.com/black-aluminum-extrusion-specify-the-system-not-just-the-finish.md)
 - [Choosing a Custom Aluminum Extrusion Manufacturer by Total Cost](shengxinaluminium.com/choosing-a-custom-aluminum-extrusion-manufacturer-by-total-cost.md)
 - [Complex Aluminum Extrusion Manufacturer Selection: Capability First](shengxinaluminium.com/complex-aluminum-extrusion-manufacturer-selection-capability-first.md)
 - [Concealed Trickle Vent EA: Why Hidden Vents Succeed or Fail](shengxinaluminium.com/concealed-trickle-vent-ea-why-hidden-vents-succeed-or-fail.md)
