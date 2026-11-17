@@ -25,6 +25,7 @@
 - [Aluminum Extrusion Die Design: Why Tight Tolerances Start Here](shengxinaluminium.com/aluminum-extrusion-die-design-why-tight-tolerances-start-here.md)
 - [Aluminum Extrusion Door Frame Tolerances Matter More Than Alloy](shengxinaluminium.com/aluminum-extrusion-door-frame-tolerances-matter-more-than-alloy.md)
 - [Aluminum Extrusion HS Code: Classify the Shape, Not the Sales Name](shengxinaluminium.com/aluminum-extrusion-hs-code-classify-the-shape-not-the-sales-name.md)
+- [Aluminum Extrusion Joints: Why Connections Control Frame Strength](shengxinaluminium.com/aluminum-extrusion-joints-why-connections-control-frame-strength.md)
 - [Aluminum Extrusion Landed Cost: Why the Lowest Quote Can Be the Most Expensive](shengxinaluminium.com/aluminum-extrusion-landed-cost-why-the-lowest-quote-can-be-the-most-expensive.md)
 - [Aluminum Extrusion Pipe Suppliers: Why Supplier Transparency Saves Buyers Thousands](shengxinaluminium.com/aluminum-extrusion-pipe-suppliers-why-supplier-transparency-saves-buyers-thousands.md)
 - [Aluminum Extrusion Pretreatment: The Step That Prevents Powder Coating Failure](shengxinaluminium.com/aluminum-extrusion-pretreatment-the-step-that-prevents-powder-coating-failure.md)
