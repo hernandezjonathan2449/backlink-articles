@@ -16,6 +16,7 @@
 - [Aluminum Alloy Selection in Bulk Extrusion: The Decision That Controls Cost and Performance](shengxinaluminium.com/aluminum-alloy-selection-in-bulk-extrusion-the-decision-that-controls-cost-and-performance.md)
 - [Aluminum Alloy Selection Is the First Surface-Finish Decision](shengxinaluminium.com/aluminum-alloy-selection-is-the-first-surface-finish-decision.md)
 - [Aluminum Alloy Selection: Choose for the Finished Part, Not Peak Strength](shengxinaluminium.com/aluminum-alloy-selection-choose-for-the-finished-part-not-peak-strength.md)
+- [Aluminum Channel Selection: Why Alloy and Temper Matter More Than Shape](shengxinaluminium.com/aluminum-channel-selection-why-alloy-and-temper-matter-more-than-shape.md)
 - [Aluminum Extrusion Alloy Selection: Finish, Cost, and Delivery](shengxinaluminium.com/aluminum-extrusion-alloy-selection-finish-cost-and-delivery.md)
 - [Aluminum Extrusion Alloy Selection: Why the Strongest Grade Isn't Always Best](shengxinaluminium.com/aluminum-extrusion-alloy-selection-why-the-strongest-grade-isn-t-always-best.md)
 - [Aluminum Extrusion Bend Radius: Why Wall Thickness Is Not Enough](shengxinaluminium.com/aluminum-extrusion-bend-radius-why-wall-thickness-is-not-enough.md)
