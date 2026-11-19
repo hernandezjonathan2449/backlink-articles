@@ -85,6 +85,7 @@
 - [Surface Mounted Trickle Vent: The Retrofit Fix for Existing Windows](shengxinaluminium.com/surface-mounted-trickle-vent-the-retrofit-fix-for-existing-windows.md)
 - [Sustainable Aluminum Verification: Proof Beyond Recycled Content](shengxinaluminium.com/sustainable-aluminum-verification-proof-beyond-recycled-content.md)
 - [T-Slot Beam Deflection: Why Span Matters More Than Alloy Strength](shengxinaluminium.com/t-slot-beam-deflection-why-span-matters-more-than-alloy-strength.md)
+- [T-Slot Hardware Compatibility: Why Nominal Size Is Not Enough](shengxinaluminium.com/t-slot-hardware-compatibility-why-nominal-size-is-not-enough.md)
 - [T-Slot vs V-Slot: Choose the Guide, Not Just the Profile](shengxinaluminium.com/t-slot-vs-v-slot-choose-the-guide-not-just-the-profile.md)
 - [Thermal Breaks in Aluminum Window Frames: Why the Hidden Barrier Matters Most](shengxinaluminium.com/thermal-breaks-in-aluminum-window-frames-why-the-hidden-barrier-matters-most.md)
 - [Thermally Broken Aluminum Windows: Why the Thermal Break Matters](shengxinaluminium.com/thermally-broken-aluminum-windows-why-the-thermal-break-matters.md)
