@@ -23,6 +23,7 @@
 - [Aluminum Extrusion Cabinet Design: Build the Load Path First](shengxinaluminium.com/aluminum-extrusion-cabinet-design-build-the-load-path-first.md)
 - [Aluminum Extrusion Cost in Saudi Arabia: Beyond Price per Kilogram](shengxinaluminium.com/aluminum-extrusion-cost-in-saudi-arabia-beyond-price-per-kilogram.md)
 - [Aluminum Extrusion Cost Savings Come from Functional Integration](shengxinaluminium.com/aluminum-extrusion-cost-savings-come-from-functional-integration.md)
+- [Aluminum Extrusion Cost: Compare Parts, Not Quotes](shengxinaluminium.com/aluminum-extrusion-cost-compare-parts-not-quotes.md)
 - [Aluminum Extrusion Cost: The Per-Pound Quote Is Not the Price](shengxinaluminium.com/aluminum-extrusion-cost-the-per-pound-quote-is-not-the-price.md)
 - [Aluminum Extrusion Cost: Why the Finished Part Matters More Than the Quote](shengxinaluminium.com/aluminum-extrusion-cost-why-the-finished-part-matters-more-than-the-quote.md)
 - [Aluminum Extrusion Design: Balance Metal Flow Before Weight](shengxinaluminium.com/aluminum-extrusion-design-balance-metal-flow-before-weight.md)
