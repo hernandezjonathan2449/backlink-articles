@@ -9,6 +9,7 @@
 - [6061 T6 vs T6511: Choose for Machining Stability, Not Strength](shengxinaluminium.com/6061-t6-vs-t6511-choose-for-machining-stability-not-strength.md)
 - [6061 vs 6063 Aluminum Right Angle Extrusion: Choosing the Right Alloy](shengxinaluminium.com/6061-vs-6063-aluminum-right-angle-extrusion-choosing-the-right-alloy.md)
 - [6063 Aluminum Surface Finish: Why It Beats Stronger Alloys](shengxinaluminium.com/6063-aluminum-surface-finish-why-it-beats-stronger-alloys.md)
+- [6063 Aluminum Temper Selection: When to Choose T5, T6, or T4](shengxinaluminium.com/6063-aluminum-temper-selection-when-to-choose-t5-t6-or-t4.md)
 - [6063 vs 6061 Aluminum Extrusion: Why Alloy and Temper Decide the Fit](shengxinaluminium.com/6063-vs-6061-aluminum-extrusion-why-alloy-and-temper-decide-the-fit.md)
 - [6063 vs 6061 Aluminum Fence Extrusions: Choosing the Alloy That Actually Fits the Job](shengxinaluminium.com/6063-vs-6061-aluminum-fence-extrusions-choosing-the-alloy-that-actually-fits-the-job.md)
 - [AAMA Coating Standards for Aluminum Extrusions: Choose by Exposure](shengxinaluminium.com/aama-coating-standards-for-aluminum-extrusions-choose-by-exposure.md)
