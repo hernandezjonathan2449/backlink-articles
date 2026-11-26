@@ -29,6 +29,7 @@
 - [Aluminum Extrusion Cost: Compare Parts, Not Quotes](shengxinaluminium.com/aluminum-extrusion-cost-compare-parts-not-quotes.md)
 - [Aluminum Extrusion Cost: The Per-Pound Quote Is Not the Price](shengxinaluminium.com/aluminum-extrusion-cost-the-per-pound-quote-is-not-the-price.md)
 - [Aluminum Extrusion Cost: Why the Finished Part Matters More Than the Quote](shengxinaluminium.com/aluminum-extrusion-cost-why-the-finished-part-matters-more-than-the-quote.md)
+- [Aluminum Extrusion Cutting: Control Chip Load for Burr-Free Ends](shengxinaluminium.com/aluminum-extrusion-cutting-control-chip-load-for-burr-free-ends.md)
 - [Aluminum Extrusion Design: Balance Metal Flow Before Weight](shengxinaluminium.com/aluminum-extrusion-design-balance-metal-flow-before-weight.md)
 - [Aluminum Extrusion Die Design: Why Tight Tolerances Start Here](shengxinaluminium.com/aluminum-extrusion-die-design-why-tight-tolerances-start-here.md)
 - [Aluminum Extrusion Die Ownership: The Terms That Protect Supply](shengxinaluminium.com/aluminum-extrusion-die-ownership-the-terms-that-protect-supply.md)
