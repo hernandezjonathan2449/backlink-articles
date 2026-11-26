@@ -55,6 +55,7 @@
 - [Aluminum Rectangular Extrusion Sizing: Match Alloy to Geometry](shengxinaluminium.com/aluminum-rectangular-extrusion-sizing-match-alloy-to-geometry.md)
 - [Aluminum Storefront Extrusions: How Profile Design Controls Facade Performance](shengxinaluminium.com/aluminum-storefront-extrusions-how-profile-design-controls-facade-performance.md)
 - [Aluminum vs Steel: The Extrusion Geometry Advantage](shengxinaluminium.com/aluminum-vs-steel-the-extrusion-geometry-advantage.md)
+- [Aluminum Window Frame Extrusions: The System Is the Specification](shengxinaluminium.com/aluminum-window-frame-extrusions-the-system-is-the-specification.md)
 - [Aluminum Zee Extrusions: Choosing 6061 vs 6063 for the Right Job](shengxinaluminium.com/aluminum-zee-extrusions-choosing-6061-vs-6063-for-the-right-job.md)
 - [Architectural Aluminum Extrusions: Thermal Break Design](shengxinaluminium.com/architectural-aluminum-extrusions-thermal-break-design.md)
 - [Are Trickle Vents a Legal Requirement? The Real Rule Is Background Ventilation](shengxinaluminium.com/are-trickle-vents-a-legal-requirement-the-real-rule-is-background-ventilation.md)
