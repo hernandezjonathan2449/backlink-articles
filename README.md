@@ -4,6 +4,7 @@
 
 <!-- backlink-building:github-repository:start -->
 ### shengxinaluminium.com
+- [2020 Aluminum Extrusion: Why the Modular System Matters](shengxinaluminium.com/2020-aluminum-extrusion-why-the-modular-system-matters.md)
 - [6005A Aluminum Extrusions: Why Balanced Strength Wins in Construction Design](shengxinaluminium.com/6005a-aluminum-extrusions-why-balanced-strength-wins-in-construction-design.md)
 - [6061 Extrusion Design: Lower Cost in Custom Aluminum Profiles](shengxinaluminium.com/6061-extrusion-design-lower-cost-in-custom-aluminum-profiles.md)
 - [6061 T6 vs T6511: Choose for Machining Stability, Not Strength](shengxinaluminium.com/6061-t6-vs-t6511-choose-for-machining-stability-not-strength.md)
